@@ -1,0 +1,64 @@
+body{
+
+    background-color: orange;
+}
+    .top{
+        background-color: #B65651;
+        padding: 10px 0;
+        color:white;
+        text-align: center;
+    }
+    @media print{
+        .top{
+            display:none;
+        }
+    }
+    .gpa{
+        background-color: #F2C38B;
+        padding: 20px 0;
+        text-align: center;
+    }
+    .gpa img{
+        width: 110px;
+    }
+    .gpa h1{
+        color:#74353F ;
+
+    }
+    .gpa h4{
+       color :#212529 ;
+
+    }
+    .kit{
+        background:white;
+        padding: 20px 0;
+        text-align:center;
+    }
+    .kit1 img{
+        width: 100px;
+    }
+    kit1 p{
+        text-align:justify;
+        padding:20px ;
+    }
+    .kit h5{
+        text-align:right;
+    }
+    .kit h6{
+        text-align:right;
+    }
+    .nav-link{
+        color:red !important;
+    }
+    .nav-link:hover{
+    color:green !important;
+    }padding: 20px 0;
+.ft{
+    background: black;
+}
+}
+.session ul li{
+    list-style:none;
+}
+
+
